@@ -1,0 +1,8 @@
+{
+  "name": "Birthday Celebration Display",
+  "description": "Full-screen festive birthday TV display with curved bunting garlands, custom photo frame, multiple visual themes, YouTube and synthesizer music, and celebration customizer.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
